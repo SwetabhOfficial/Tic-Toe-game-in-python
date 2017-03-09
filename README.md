@@ -3,4 +3,5 @@ Tic-tac-toe (also known as noughts and crosses or Xs and Os) is a paper-and-penc
 
 # How To Install
 git clone https://github.com/Swetabhsuman8/Tic-Toe-game-in-python.git
+
 sudo python tictoe.py
